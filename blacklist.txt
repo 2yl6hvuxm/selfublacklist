@@ -1,3 +1,4 @@
+*://*.aqjk.org/*
 *://*.arianesante.com/*
 *://*.ctltsb.com/*
 *://*.ezgckg.com/*
