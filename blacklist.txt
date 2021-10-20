@@ -1,0 +1,16 @@
+*://*.arianesante.com/*
+*://*.ctltsb.com/*
+*://*.ezgckg.com/*
+*://*.gsbzgg.com/*
+*://*.jiankuu.com/*
+*://*.jstlt.com/*
+*://*.keaitupianku.com/*
+*://*.nbfan.com.cn/*
+*://*.novaresurgical.com/*
+*://*.whct.com.cn/*
+*://*.xinhuiwine.com/*
+*://chsou.cc/*
+*://deqianhong.com/*
+*://huiss.cc/*
+*://sounote.cc/*
+*://wantubizhi.com/*
