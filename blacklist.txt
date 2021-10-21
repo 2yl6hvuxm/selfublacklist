@@ -6,6 +6,7 @@
 *://*.jiankuu.com/*
 *://*.jstlt.com/*
 *://*.keaitupianku.com/*
+*://*.kk-news.cc/*
 *://*.nas-portal.com/*
 *://*.nbfan.com.cn/*
 *://*.novaresurgical.com/*
