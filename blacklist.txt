@@ -12,6 +12,7 @@
 *://*.novaresurgical.com/*
 *://*.whct.com.cn/*
 *://*.xinhuiwine.com/*
+*://bcc72.com/*
 *://chsou.cc/*
 *://deqianhong.com/*
 *://guitarbbs.com.cn/*
